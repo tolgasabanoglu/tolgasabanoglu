@@ -1,2 +1,2 @@
 Hello! :milky_way: I am Tolga. Most of these repositories are related to my class assignments, encompassing remote sensing data analysis, manipulation, exploration of various statistical methods, as well as the application of machine learning (ML) and deep learning (DL) algorithms using Python and R. 
-Additionally, you may find some experimental :rocket: :robot: :world_map: :satellite_antenna: inspired by my personal interests.
+Additionally, you may find some experimental :rocket: :robot: :world_map: :map_of_japan: inspired by my personal interests.
